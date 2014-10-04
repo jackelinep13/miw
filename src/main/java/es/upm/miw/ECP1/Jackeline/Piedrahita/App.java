@@ -17,5 +17,6 @@ public class App
         System.out.println( "Release2!" );
         System.out.println( "Release3!" );
         System.out.println( "Develop6!" );
+        System.out.println( "Develop7!" );
     }
 }
