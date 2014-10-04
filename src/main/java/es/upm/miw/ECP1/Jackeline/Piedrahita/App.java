@@ -11,5 +11,6 @@ public class App
         System.out.println( "Develop1!" );
         System.out.println( "Develop2!" );
         System.out.println( "Develop3!" );
+        System.out.println( "Release1!" );
     }
 }
